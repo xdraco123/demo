@@ -6,6 +6,6 @@ simple text file
 #dkdjlkdjflkja
 
 
-#zmiana w pliku, na innej gałęzi
+to jest linia w gałęzi master
 
 
