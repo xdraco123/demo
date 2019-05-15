@@ -6,6 +6,6 @@ simple text file
 #dkdjlkdjflkja
 
 
-to spowoduje błędy
+COŚ TUTAJ ZMIENIŁEM
 
 
