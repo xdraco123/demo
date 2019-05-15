@@ -1,3 +1,5 @@
 #license
 #apache
 
+coś zmieniono w licencji
+
