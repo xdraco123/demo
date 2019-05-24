@@ -10,3 +10,4 @@ COŚ TUTAJ ZMIENIŁEM
 
 
 tutaj też
+fkal;kj;dlfak
