@@ -9,3 +9,4 @@ simple text file
 COŚ TUTAJ ZMIENIŁEM
 
 
+fkal;kj;dlfak
